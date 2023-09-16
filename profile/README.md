@@ -1,12 +1,27 @@
-## Hi there 👋
 
-<!--
+## 🌈UMC 안드로이드 스터디🌈
+### 워크북 진행 방식👋
+0. main 브랜치에 빈 파일 생성해서 push하여 초기 세팅한다.
+1. 각자 이름으로 된 레포를 판다 (처음만)
+2. 매 주차에 실습 내용에 맞게 그 주차의 이슈를 작성한다. (이슈 템플릿 이용)
+3. main branch에서 그 주차의 브랜치를 판다. ex) Week3
+4. 각자 자신의 워크북을 진행한다.
+5. push 후 main 브랜치에 PR을 한다.
+6. 각 조원들의 코드를 코드리뷰 후 고칠 부분이 있으면 고치고 머지는 시키지 않음.
+7. 그 주차가 끝나면 브랜치에 있는 모든 unstaged된 파일들을 커밋해주세요!! 안그러면 작업하던게 다른 브랜치로 넘어가서 복잡해집니다...
+8. 작업하던 것들을 모두 커밋시켰다면 main 브랜치에서 다시 새로운 브랜치를 파서 진행해주시면 됩니다.
+9. 다른 조원들 코드도 리뷰해주면 좋고 시간이 없으면 조원들 중 한 명이라도 꼭 코드리뷰를 달아주세요^^
+10. 코드리뷰는 정말 코드를 보고 느낀 부분에 대해 쓰시면 됩니다. 이 부분은 고쳤으면 좋겠어요~, 이런 방법도 있군요~, 정말 잘하셨습니다. 등등..
 
-**Here are some ideas to get you started:**
+### Commit Message Convention
+**커밋태그 : 내용 #이슈번호**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+예시) add : login 파일 추가 #20
+
+파일 추가 : add
+버그 수정 : fix
+리팩터링 : refactoring
+파일 삭제 : remove
+기능 추가 : feat
+문서 수정 : docs
+주석 추가 : comment
