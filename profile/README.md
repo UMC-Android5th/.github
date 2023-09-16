@@ -25,3 +25,12 @@
 기능 추가 : feat
 문서 수정 : docs
 주석 추가 : comment
+
+## 스터디 구성원
+### 파트장
+| 리유/강유리 |
+|:---------:|
+| [kangyuri1114](https://github.com/kangyuri1114) |
+### A조
+
+### B조
