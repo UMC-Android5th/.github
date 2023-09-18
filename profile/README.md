@@ -58,5 +58,22 @@
 |:---------:|
 | [kangyuri1114](https://github.com/kangyuri1114) |
 ### A조
+#### 스터디장
+| 진창/장진호 |
+|:---------:|
+| [fprtmjinho](https://github.com/fprtmjinho) |
 
+#### 스터디원
+| 릴리/정서현 | 호세이돈/이호진 | 데이지/임경진 |
+|:---------:|:---------:|:---------:|
+| [SeohyeonJung](https://github.com/SeohyeonJung) | [LeeHoJin](https://github.com/LeeHoJin) | [ImKyungJin](https://github.com/ImKyungJin) |
 ### B조
+#### 스터디장
+| 루스/곽은재 |
+|:---------:|
+| [kwakeunjae](https://github.com/kwakeunjae) |
+
+#### 스터디원
+| 비니/이유빈 | 쩡/차현 |
+|:---------:|:---------:|
+| [leeeyubin](https://github.com/leeeyubin) | [jeong724](https://github.com/jeong724) |
