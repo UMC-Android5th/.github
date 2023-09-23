@@ -66,7 +66,7 @@
 #### 스터디원
 | 릴리/정서현 | 호세이돈/이호진 | 데이지/임경진 |
 |:---------:|:---------:|:---------:|
-| [SeohyeonJung](https://github.com/SeohyeonJung) | [LeeHoJin](https://github.com/Wrappedfinger) | [ImKyungJin](https://github.com/ImKyungJin) |
+| [SeohyeonJung](https://github.com/SeohyeonJung) | [Wrappedfinger](https://github.com/Wrappedfinger) | [ImKyungJin](https://github.com/ImKyungJin) |
 ### B조
 #### 스터디장
 | 루스/곽은재 |
